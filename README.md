@@ -15,5 +15,5 @@ Both programs can be run, in the CLI using "python3 dialog.py" and "python3 dial
 
 
 Team members:
-Ananya Nunna
+Ananya Nunna and
 Sai Krishna Wupadrashta
