@@ -1,4 +1,4 @@
-# HW3
+# Dialog Search
 
 1. dialog.py:(DIALOG)
 Used to extract all the dialog into a separate output file, given  a list of input files similar to the sample files(sh.txt and dracula.txt). The output file generated contains all the dialogs accompanied by the quotation marks.
